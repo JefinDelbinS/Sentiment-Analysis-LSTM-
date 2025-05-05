@@ -64,4 +64,3 @@ Predicted Sentiment: Negative
 
 ---
 
-Let me know if you’d like a version that includes setup instructions for virtual environments or deployment to a web app.
